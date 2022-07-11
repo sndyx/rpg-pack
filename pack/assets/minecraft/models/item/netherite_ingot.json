@@ -4,8 +4,8 @@
 		"layer0": "item/netherite_ingot"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "minecraft:item/netherite_ingot"},
-		{"predicate": {"custom_model_data":2}, "model": "minecraft:item/wheat_seeds"}
-		{"predicate": {"custom_model_data":3}, "model": "minecraft:item/dandelion"}
+		{"predicate": {"custom_model_data":1}, "model": "item/netherite_ingot"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wheat_seeds"},
+		{"predicate": {"custom_model_data":3}, "model": "item/dandelion"}
 	]
 }
