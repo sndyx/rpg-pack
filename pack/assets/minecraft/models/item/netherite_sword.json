@@ -4,8 +4,6 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{ "predicate": { "damage": 0 }, "model": "item/netherite_sword" },
-		{ "predicate": { "damaged": 0, "damage": 0.000492368291482 }, "model": "item/custom/lightning_typhoon" },
-		{ "predicate": { "damaged": 1 }, "model": "item/netherite_sword" }
+		{"predicate": {"custom_model_data":1234567}, "model": "item/custom/lightning_typhoon"}
 	]
 }
