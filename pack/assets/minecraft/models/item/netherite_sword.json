@@ -4,7 +4,7 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/lightning_typhoon"}
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/lightning_typhoon"},
 		{"predicate": {"custom_model_data":2}, "model": "item/custom/pink_spell"}
 	]
 }
