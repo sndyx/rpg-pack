@@ -1,5 +1,5 @@
-rm pack.zip
+rm 00000bxvvs.zip
 cd pack
-zip -vr ../pack.zip * -x "*.DS_Store"
+zip -vr ../00000bxvvs.zip * -x "*.DS_Store"
 cd ..
-echo Resource pack SHA-1 hash: $(shasum pack.zip | cut -c-40)
+echo Resource pack SHA-1 hash: $(shasum 00000bxvvs.zip | cut -c-40)
