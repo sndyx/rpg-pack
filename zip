@@ -1,3 +1,4 @@
+rm pack.zip
 cd pack
 zip -vr ../pack.zip * -x "*.DS_Store"
 cd ..
