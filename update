@@ -1,4 +1,4 @@
-./zip.sh
+./zip
 git add .
 git commit -m "Automated commit"
 git push
