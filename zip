@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm 00000bxvvs.zip
 cd pack
 zip -vr ../00000bxvvs.zip * -x "*.DS_Store"
