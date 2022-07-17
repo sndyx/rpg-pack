@@ -4,14 +4,7 @@
 		"layer0": "item/stick"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/coal"},
-		{"predicate": {"custom_model_data":2}, "model": "item/dandelion"},
-		{"predicate": {"custom_model_data":3}, "model": "item/green_dye"},
-		{"predicate": {"custom_model_data":4}, "model": "item/custom/lightning_typhoon"},
-		{"predicate": {"custom_model_data":5}, "model": "item/custom/pink_spell"},
-		{"predicate": {"custom_model_data":6}, "model": "item/wheat_seeds"},
-		{"predicate": {"custom_model_data":7}, "model": "item/netherite_hoe"},
-		{"predicate": {"custom_model_data":8}, "model": "item/wheat"},
-		{"predicate": {"custom_model_data":9}, "model": "item/wooden_hoe"}
+		{"predicate": {"custom_model_data":1}, "model": "item/wooden_pickaxe"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wooden_axe"},
 	]
 }
