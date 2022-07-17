@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/wooden_hoe"},
 		{"predicate": {"custom_model_data":4}, "model": "item/green_dye"},
 		{"predicate": {"custom_model_data":5}, "model": "item/wheat"},
-		{"predicate": {"custom_model_data":6}, "model": "item/coal"}
+		{"predicate": {"custom_model_data":6}, "model": "item/coal"},
+		{"predicate": {"custom_model_data":7}, "model": "item/oak_wood"}
 	]
 }
