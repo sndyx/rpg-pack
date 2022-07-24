@@ -1,32 +1,10 @@
 {
     "variants": {
-        "distance=1": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=2": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=3": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=4": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=5": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=6": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				],
-        "distance=7": [
-			{ "model": "block/flowering_azalea_leaves" },
-			{ "model": "block/flowering_azalea_leaves1" }
-				]
+        "": [
+            { "model": "block/flowering_azalea_leaves" },
+			{ "model": "block/flowering_azalea_leaves_1", "y": 90 },
+			{ "model": "block/flowering_azalea_leaves_2", "y": 180 },
+			{ "model": "block/flowering_azalea_leaves_3", "y": 270 }
+        ]
     }
 }
