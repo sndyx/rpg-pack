@@ -1,10 +1,10 @@
 {
 	"variants": {
 		"": [{
-			"model": "block/lime_mortar/1",
+			"model": "block/lime_mortar",
 			"weight": 80
 		},{
-			"model": "block/lime_mortar/2",
+			"model": "block/lime_mortar_2",
 			"weight": 20
 		}]
 	}
