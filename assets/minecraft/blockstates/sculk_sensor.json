@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "sculk_sensor_phase=cooldown,power=0": [
+            { "model": "addon:block/nailed_oak_slab_1" },
+            { "model": "addon:block/nailed_oak_slab_2" },
+            { "model": "addon:block/nailed_oak_slab_3" },
+            { "model": "addon:block/nailed_oak_slab_4" }
+        ],
+        "sculk_sensor_phase=cooldown,power=1": { "model": "addon:block/reinforced_spruce_slab" }
+    }
+}

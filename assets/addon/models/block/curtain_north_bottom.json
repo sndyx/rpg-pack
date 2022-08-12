@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"texture": "addon:block/curtain_bottom",
+		"particle": "empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

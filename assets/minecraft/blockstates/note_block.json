@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "powered=false,instrument=harp,note=0": [
+            { "model": "addon:block/nailed_oak_planks_1" },
+            { "model": "addon:block/nailed_oak_planks_2" },
+            { "model": "addon:block/nailed_oak_planks_3" },
+            { "model": "addon:block/nailed_oak_planks_4" }
+        ],
+        "powered=false,instrument=harp,note=1": { "model": "addon:block/reinforced_spruce_planks" }
+    }
+}

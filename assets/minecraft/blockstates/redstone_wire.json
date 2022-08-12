@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "north=none,east=none,south=none,west=none,power=0": [
+            { "model": "addon:block/herbs_1" },
+            { "model": "addon:block/herbs_2" }
+        ],
+        "north=none,east=none,south=none,west=side,power=0": { "model": "addon:block/curtain_north_top" },
+        "north=none,east=none,south=none,west=up,power=0": { "model": "addon:block/curtain_north" },
+        "north=none,east=none,south=side,west=none,power=0": { "model": "addon:block/curtain_north_bottom" },
+        "north=none,east=side,south=side,west=side,power=0": { "model": "addon:block/curtain_east_top" },
+        "north=none,east=side,south=side,west=up,power=0": { "model": "addon:block/curtain_east" },
+        "north=none,east=side,south=up,west=none,power=0": { "model": "addon:block/curtain_east_bottom" },
+        "north=none,east=side,south=up,west=side,power=0": { "model":  "addon:block/spoked_wooden_wheel" }
+    }
+}

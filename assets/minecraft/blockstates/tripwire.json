@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "powered=true,north=false,east=false,south=false,west=false,attached=false,disarmed=false": { "model": "addon:block/sweet_grass" }
+    }
+}

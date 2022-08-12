@@ -1,0 +1,33 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -3,
+            "ascent": -32768,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 100,
+            "ascent": -32768,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/mana.png",
+            "height": 9,
+            "ascent": -26,
+            "chars": [
+                "\uE100\uE101\uE102",
+                "\uE103\uE104\uE105",
+                "\uE106\uE107\uE108"
+            ]
+        }
+    ]
+}

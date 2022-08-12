@@ -1,0 +1,4 @@
+{
+    "parent": "block/cube_all",
+    "textures": { "all": "addon:block/nailed_oak_planks_2" }
+}
