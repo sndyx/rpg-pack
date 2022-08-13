@@ -1,5 +1,8 @@
 #version 150
 
+#moj_import <light.glsl>
+#moj_import <fog.glsl>
+
 in vec3 Position;
 in vec4 Color;
 in vec2 UV0;
@@ -7,35 +10,26 @@ in ivec2 UV2;
 in vec3 Normal;
 
 uniform sampler2D Sampler2;
-uniform float GameTime;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
 uniform vec3 ChunkOffset;
+uniform int FogShape;
+uniform float GameTime;
 
 out float vertexDistance;
 out vec4 vertexColor;
 out vec2 texCoord0;
-out vec2 texCoord2;
 out vec4 normal;
 
 void main() {
-    vec3 position = Position + ChunkOffset;
-    float animation = GameTime * 6000.0;
+    vec3 pos = Position + ChunkOffset;
+    float ox = sin(pos.x + GameTime * 5000);
+    float oz = sin(pos.z + GameTime * 5000);
+    gl_Position = ProjMat * ModelViewMat * vec4(pos, 1.0) + vec4(0.0, (ox - oz) / 32.0, 0.0, 0.0);
 
-    float xs = 0.0;
-    float zs = 0.0;
-    if (UV0.x >= 224.0 / 1024.0 && UV0.x <= 240.0 / 1024.0) {
-        if (UV0.y >= 400.0 / 1024.0 && UV0.y <= 416.0 / 1024.0) {
-            xs = sin(position.x + animation);
-            zs = cos(position.z + animation);
-        }
-    }
-
-    gl_Position = ProjMat * ModelViewMat * (vec4(position, 1.0) + vec4(0.0, (xs - zs) / 32.0, 0.0, 0.0));
-
-    vertexDistance = length((ModelViewMat * vec4(Position + ChunkOffset, 1.0)).xyz);
-    vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
+    vertexDistance = fog_distance(ModelViewMat, pos, FogShape);
+    vertexColor = Color * minecraft_sample_lightmap(Sampler2, UV2);
     texCoord0 = UV0;
     normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
 }

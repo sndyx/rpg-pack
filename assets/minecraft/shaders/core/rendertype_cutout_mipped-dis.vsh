@@ -26,7 +26,7 @@ void main() {
     vec3 pos = Position + ChunkOffset;
     float ox = sin(pos.x + GameTime * 5000);
     float oz = sin(pos.z + GameTime * 5000);
-    gl_Position = ProjMat * ModelViewMat * vec4(pos, 1.0) +  + vec4(0.0, (ox - oz) / 32.0, 0.0, 0.0);
+    gl_Position = ProjMat * ModelViewMat * vec4(pos, 1.0) + vec4(0.0, (ox - oz) / 32.0, 0.0, 0.0);
 
     vertexDistance = fog_distance(ModelViewMat, pos, FogShape);
     vertexColor = Color * minecraft_sample_lightmap(Sampler2, UV2);
