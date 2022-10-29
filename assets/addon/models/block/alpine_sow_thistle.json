@@ -1,5 +1,5 @@
 {
-    "parent": "block/medium_cross",
+    "parent": "minecraft:block/medium_cross",
     "textures": {
         "cross": "addon:block/alpine_sow_thistle"
     }
