@@ -6,6 +6,12 @@
             { "model": "addon:block/nailed_oak_planks_3" },
             { "model": "addon:block/nailed_oak_planks_4" }
         ],
-        "powered=false,instrument=harp,note=1": { "model": "addon:block/reinforced_spruce_planks" }
+        "powered=false,instrument=harp,note=1": { "model": "addon:block/reinforced_spruce_planks" },
+        "powered=false,instrument=harp,note=2": { "model": "addon:block/pine_log" },
+        "powered=false,instrument=harp,note=3": { "model": "addon:block/orange_pine_log" },
+        "powered=false,instrument=harp,note=4": { "model": "addon:block/transition_pine_log" },
+        "powered=false,instrument=harp,note=5": { "model": "addon:block/granite_brick" },
+        "powered=false,instrument=harp,note=6": { "model": "addon:block/granite_embossment" },
+        "powered=false,instrument=harp,note=7": { "model": "addon:block/tan_sandstone_brick" }
     }
 }

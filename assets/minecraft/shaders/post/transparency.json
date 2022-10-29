@@ -1,15 +1,11 @@
 {
     "targets": [
         "swap",
-        "translucent",
-        "itemEntity",
-        "particles",
-        "clouds",
-        "weather"
+        "translucent"
     ],
     "passes": [
         {
-            "name": "transparency",
+            "name": "water",
             "intarget": "minecraft:main",
             "outtarget": "swap",
             "auxtargets": [

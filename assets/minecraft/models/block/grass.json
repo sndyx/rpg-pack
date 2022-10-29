@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/clumped",
+    "textures": {
+        "cross": "minecraft:block/grass"
+    }
+}
