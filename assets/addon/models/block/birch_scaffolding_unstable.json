@@ -1,0 +1,8 @@
+{
+    "parent": "addon:block/scaffolding_unstable",
+    "textures": {
+        "texture": "addon:block/birch_scaffolding_side",
+        "cross": "addon:block/birch_scaffolding_cross",
+        "top": "minecraft:block/birch_planks"
+    }
+}

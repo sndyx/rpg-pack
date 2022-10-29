@@ -1,0 +1,7 @@
+{
+    "parent": "addon:block/scaffolding_stable",
+    "textures": {
+        "texture": "addon:block/birch_scaffolding_side",
+        "top": "minecraft:block/birch_planks"
+    }
+}

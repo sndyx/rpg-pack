@@ -1,0 +1,8 @@
+{
+    "parent": "addon:block/scaffolding_unstable",
+    "textures": {
+        "texture": "addon:block/jungle_scaffolding_side",
+        "cross": "addon:block/jungle_scaffolding_cross",
+        "top": "minecraft:block/jungle_planks"
+    }
+}
