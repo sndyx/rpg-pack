@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/blaze_rod"
+        "layer0": "item/barrier"
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model": "addon:block/nailed_oak_planks_1" },

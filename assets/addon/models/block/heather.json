@@ -1,0 +1,6 @@
+{
+    "parent": "block/clumped",
+    "textures": {
+        "cross": "addon:block/heather"
+    }
+}

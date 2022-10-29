@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "addon:block/purple_moor_grass"
+    }
+}

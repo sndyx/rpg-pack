@@ -1,0 +1,6 @@
+{
+    "parent": "block/big_cross",
+    "textures": {
+        "cross": "addon:block/purple_wolfs_bane"
+    }
+}
