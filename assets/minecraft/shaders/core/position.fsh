@@ -83,7 +83,7 @@ void main() {
     vec3 v = normalize(cast_pos.xyz * mat3(ModelViewMat));
     float intensity = 1.0 - (ColorModulator.r + ColorModulator.g + ColorModulator.b);
     if (intensity < 0) {
-		fragColor = vec4(sampleClouds(v), 1.0) * intensity + ColorModulator;
+		fragColor = ColorModulator;
 	} else {
         fragColor = vec4(sampleStarfield(v), 1.0) * intensity + ColorModulator;
     }
