@@ -1,7 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "addon:block/herbs_2",
-        "particle": "empty"
-    }
-}

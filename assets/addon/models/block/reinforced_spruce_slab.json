@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "addon:block/reinforced_spruce_planks",
-        "side": "addon:block/reinforced_spruce_planks",
-        "top": "addon:block/reinforced_spruce_planks"
-    }
-}

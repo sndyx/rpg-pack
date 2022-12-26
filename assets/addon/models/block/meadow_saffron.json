@@ -1,6 +1,0 @@
-{
-    "parent": "block/clumped",
-    "textures": {
-        "cross": "addon:block/meadow_saffron"
-    }
-}

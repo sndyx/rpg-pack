@@ -1,5 +1,5 @@
 {
     "variants": {
-        "powered=true,north=false,east=false,south=false,west=false,attached=false,disarmed=false": { "model": "addon:block/sweet_grass" }
+        "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": { "model": "addon:block/fallen_oak_leaves" }
     }
 }

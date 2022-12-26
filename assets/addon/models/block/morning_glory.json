@@ -1,0 +1,6 @@
+{
+    "parent": "addon:block/cross_tall",
+    "textures": {
+        "cross": "addon:block/morning_glory"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "persistent=true,distance=2": [
+            { "model": "addon:block/maple_leaves_orange" },
+            { "model": "addon:block/maple_leaves_orange", "y": 180 }
+        ],
+        "persistent=true,distance=3": [
+            { "model": "addon:block/maple_leaves_red" },
+            { "model": "addon:block/maple_leaves_red", "y": 180 }
+        ]
+    }
+}

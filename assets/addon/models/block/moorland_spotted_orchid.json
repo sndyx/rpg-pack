@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "addon:block/moorland_spotted_orchid"
-    }
-}

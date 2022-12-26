@@ -1,0 +1,6 @@
+{
+    "parent": "addon:block/fallen_leaves",
+    "textures": {
+        "texture": "addon:block/colored_oak_leaves"
+    }
+}

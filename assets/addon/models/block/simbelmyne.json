@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/clumped_small",
-    "textures": {
-        "cross": "addon:block/simbelmyne"
-    }
-}

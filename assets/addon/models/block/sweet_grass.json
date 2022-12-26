@@ -1,6 +1,0 @@
-{
-    "parent": "block/medium_cross",
-    "textures": {
-        "cross": "addon:block/sweet_grass"
-    }
-}

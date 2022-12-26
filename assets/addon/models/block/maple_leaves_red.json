@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_bushy_no_tint",
+    "textures": {
+        "all": "addon:block/maple_leaves_red",
+        "bushy": "addon:block/maple_leaves_red_bushy"
+    }
+}

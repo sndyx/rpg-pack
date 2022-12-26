@@ -1,7 +1,0 @@
-{
-    "parent": "addon:block/scaffolding_stable",
-    "textures": {
-        "texture": "addon:block/spruce_scaffolding_side",
-        "top": "minecraft:block/spruce_planks"
-    }
-}

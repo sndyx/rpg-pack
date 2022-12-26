@@ -1,17 +1,28 @@
 {
     "variants": {
-        "powered=false,instrument=harp,note=0": [
-            { "model": "addon:block/nailed_oak_planks_1" },
-            { "model": "addon:block/nailed_oak_planks_2" },
-            { "model": "addon:block/nailed_oak_planks_3" },
-            { "model": "addon:block/nailed_oak_planks_4" }
+        "instrument=harp,powered=false,note=0": [
+            { "model": "addon:block/stone_dark_1" },
+            { "model": "addon:block/stone_dark_1", "y": 180 }
         ],
-        "powered=false,instrument=harp,note=1": { "model": "addon:block/reinforced_spruce_planks" },
-        "powered=false,instrument=harp,note=2": { "model": "addon:block/pine_log" },
-        "powered=false,instrument=harp,note=3": { "model": "addon:block/orange_pine_log" },
-        "powered=false,instrument=harp,note=4": { "model": "addon:block/transition_pine_log" },
-        "powered=false,instrument=harp,note=5": { "model": "addon:block/granite_brick" },
-        "powered=false,instrument=harp,note=6": { "model": "addon:block/granite_embossment" },
-        "powered=false,instrument=harp,note=7": { "model": "addon:block/tan_sandstone_brick" }
+        "instrument=harp,powered=false,note=1": [
+            { "model": "addon:block/stone_dark_2" },
+            { "model": "addon:block/stone_dark_2", "y": 180 }
+        ],
+        "instrument=harp,powered=false,note=2": [
+            { "model": "addon:block/stone_dark_3" },
+            { "model": "addon:block/stone_dark_3", "y": 180 }
+        ],
+        "instrument=harp,powered=false,note=3": [
+            { "model": "addon:block/stone_dark_4" },
+            { "model": "addon:block/stone_dark_4", "y": 180 }
+        ],
+        "instrument=harp,powered=false,note=4": [
+            { "model": "addon:block/stone_dark_5" },
+            { "model": "addon:block/stone_dark_5", "y": 180 }
+        ],
+        "instrument=harp,powered=false,note=5": { "model": "addon:block/tiled_cobblestone" },
+        "instrument=harp,powered=false,note=6": { "model": "addon:block/hardened_sand" },
+        "instrument=harp,powered=false,note=7": { "model": "addon:block/pine_log" },
+        "instrument=harp,powered=false,note=8": { "model": "addon:block/planter_box" }
     }
 }

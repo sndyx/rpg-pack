@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/big_cross",
-	"textures": {
-		"cross": "minecraft:block/wheat_stage7"
-	}
-}

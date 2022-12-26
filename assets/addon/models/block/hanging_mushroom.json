@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "addon:block/hanging_mushroom",
+		"1": "addon:block/hanging_mushroom_small",
+		"particle": "addon:block/hanging_mushroom"
+	},
+	"elements": [
+		{
+			"from": [3, 2, 11],
+			"to": [9, 4, 16],
+			"faces": {
+				"north": {"uv": [6, 0, 12, 2], "texture": "#0"},
+				"east": {"uv": [6, 4, 11, 6], "texture": "#0"},
+				"south": {"uv": [6, 2, 12, 4], "texture": "#0"},
+				"west": {"uv": [6, 6, 11, 8], "texture": "#0"},
+				"up": {"uv": [6, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 5, 0, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, 6, 13],
+			"to": [7, 8, 20],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [5, 0, 10, 1], "texture": "#1"},
+				"east": {"uv": [5, 2, 8.5, 3], "texture": "#1"},
+				"south": {"uv": [5, 1, 10, 2], "texture": "#1"},
+				"west": {"uv": [5, 3, 8.5, 4], "texture": "#1"},
+				"up": {"uv": [5, 3.5, 0, 0], "texture": "#1"},
+				"down": {"uv": [5, 3.5, 0, 7], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}

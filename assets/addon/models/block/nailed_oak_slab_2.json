@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "addon:block/nailed_oak_planks_2",
-        "side": "addon:block/nailed_oak_planks_2",
-        "top": "addon:block/nailed_oak_planks_2"
-    }
-}

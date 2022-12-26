@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 0 }, "model": "addon:item/platinum_sword" },
+        { "predicate": { "custom_model_data": 1 }, "model": "addon:item/copper_sword" },
+        { "predicate": { "custom_model_data": 2 }, "model": "addon:item/raw_platinum" },
+        { "predicate": { "custom_model_data": 3 }, "model": "addon:item/platinum_ingot" },
+        { "predicate": { "custom_model_data": 4 }, "model": "addon:item/crystal_sword" },
+        { "predicate": { "custom_model_data": 5 }, "model": "addon:item/crystal_helmet" },
+        { "predicate": { "custom_model_data": 6 }, "model": "addon:item/crystal_chestplate" },
+        { "predicate": { "custom_model_data": 7 }, "model": "addon:item/crystal_leggings" },
+        { "predicate": { "custom_model_data": 8 }, "model": "addon:item/crystal_boots" },
+        { "predicate": { "custom_model_data": 9 }, "model": "addon:block/cirno_fumo" }
+    ]
+}

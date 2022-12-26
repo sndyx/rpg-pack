@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "addon:block/pine_log"
+        "all": "addon:block/stone_dark_4"
     }
 }

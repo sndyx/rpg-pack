@@ -28,6 +28,15 @@
                 "\uE103\uE104\uE105",
                 "\uE106\uE107\uE108"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/crafting.png",
+            "height": 176,
+            "ascent": -26,
+            "chars": [
+                "\uE109"
+            ]
         }
     ]
 }

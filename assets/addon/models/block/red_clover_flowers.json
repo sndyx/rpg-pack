@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "addon:block/red_clover_flowers"
-    }
-}
