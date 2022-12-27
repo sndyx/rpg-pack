@@ -8,7 +8,7 @@ version+="."$((1+patch))
 echo "{\"pack\": {\"pack_format\": 9,\"description\":\"Edition $version\"}}" >> pack.mcmeta
 
 ls
-./zip
+./zip.sh
 git add .
 git commit -m "Update to $version"
 git push
