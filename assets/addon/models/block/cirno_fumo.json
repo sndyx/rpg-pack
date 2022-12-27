@@ -1,8 +1,7 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "addon:block/cirno_fumo",
-        "particle": "#0"
+        "0": "addon:block/cirno_fumo"
     },
     "elements": [
         {
