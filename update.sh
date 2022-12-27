@@ -5,6 +5,7 @@ patch=$(curl -s -L 'https://github.com/sndyx/rpg-pack/blob/master/patch?raw=true
 echo $patch >> patch
 version+="."$((1+patch))
 
+rm pack.mcmeta
 echo "{\"pack\": {\"pack_format\": 9,\"description\":\"Edition $version\"}}" >> pack.mcmeta
 
 ls
