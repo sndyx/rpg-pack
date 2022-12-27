@@ -2,6 +2,7 @@
 
 version="2022.1"
 patch=$(curl -s -L 'https://github.com/sndyx/rpg-pack/blob/master/patch?raw=true')
+rm patch
 echo $patch >> patch
 version+="."$((1+patch))
 
