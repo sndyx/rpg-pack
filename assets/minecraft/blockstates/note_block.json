@@ -23,7 +23,7 @@
         "instrument=harp,powered=false,note=5": { "model": "addon:block/tiled_cobblestone" },
         "instrument=harp,powered=false,note=6": { "model": "addon:block/hardened_sand" },
         "instrument=harp,powered=false,note=7": { "model": "addon:block/pine_log" },
-
+        "instrument=harp,powered=false,note=8": { "model": "addon:block/snow_bricks" },
         "instrument=harp,powered=false,note=9": { "model": "addon:block/outlined_oak_planks" },
         "instrument=harp,powered=false,note=10": { "model": "addon:block/outlined_spruce_planks" }
     }
