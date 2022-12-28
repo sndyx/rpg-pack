@@ -1,5 +1,5 @@
 {
     "variants": {
-        "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": { "model": "addon:block/fallen_oak_leaves" }
+        "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": { "model": "addon:block/frosted_grass" }
     }
 }
