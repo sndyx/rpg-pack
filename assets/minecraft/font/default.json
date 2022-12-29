@@ -12,10 +12,19 @@
         {
             "type": "bitmap",
             "file": "addon:font/space.png",
-            "height": 100,
+            "height": 83,
             "ascent": -32768,
             "chars": [
                 "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 2,
+            "ascent": -32768,
+            "chars": [
+                "\uE002"
             ]
         },
         {
@@ -28,6 +37,230 @@
                 "\uE103\uE104\uE105",
                 "\uE106\uE107\uE108"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_00.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_01.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_02.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_03.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_04.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_05.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_06.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE10f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_07.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_08.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_09.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_10.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE113"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_11.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE114"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_12.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE115"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_13.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE116"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_14.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE117"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_15.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE118"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_16.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE119"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_17.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_18.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_19.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_20.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_21.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_22.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE11f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_23.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE120"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_24.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE121"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_25.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE122"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_26.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE123"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_27.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE124"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_28.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE125"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_29.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE126"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_30.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE127"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/compass_31.png",
+            "height": 16,
+            "ascent": -21,
+            "chars": ["\uE128"]
         }
     ]
 }
