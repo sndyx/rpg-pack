@@ -1,5 +1,6 @@
 {
     "variants": {
-        "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": { "model": "addon:block/frosted_grass" }
+        "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": { "model": "addon:block/frosted_grass" },
+        "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=true": { "model": "addon:block/cattail" }
     }
 }
