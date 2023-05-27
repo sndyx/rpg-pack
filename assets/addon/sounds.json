@@ -1,0 +1,50 @@
+{
+  "tracks.test1": {
+    "sounds": [
+      {
+        "name": "addon:tracks/test1",
+        "weight": 1
+      }
+    ]
+  },
+  "tracks.test2": {
+    "sounds": [
+      {
+        "name": "addon:tracks/test2",
+        "weight": 1
+      }
+    ]
+  },
+  "tracks.test3": {
+    "sounds": [
+      {
+        "name": "addon:tracks/test3",
+        "weight": 1
+      }
+    ]
+  },
+  "tracks.test4": {
+    "sounds": [
+      {
+        "name": "addon:tracks/test4",
+        "weight": 1
+      }
+    ]
+  },
+  "tracks.lineartest": {
+    "sounds": [
+      {
+        "name": "addon:tracks/humble_beginnings",
+        "weight": 1
+      }
+    ]
+  },
+  "tracks.lineartest.mono": {
+    "sounds": [
+      {
+        "name": "addon:tracks/humble_beginnings_mono",
+        "weight": 1
+      }
+    ]
+  }
+}
