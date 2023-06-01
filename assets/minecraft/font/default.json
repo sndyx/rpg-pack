@@ -3,19 +3,19 @@
         {
             "type": "bitmap",
             "file": "addon:font/space.png",
-            "height": -3,
+            "height": -1,
             "ascent": -32768,
             "chars": [
-                "\uE000"
+                "\uF800"
             ]
         },
         {
             "type": "bitmap",
             "file": "addon:font/space.png",
-            "height": 83,
+            "height": 0,
             "ascent": -32768,
             "chars": [
-                "\uE001"
+                "\uF801"
             ]
         },
         {
@@ -24,7 +24,178 @@
             "height": 2,
             "ascent": -32768,
             "chars": [
-                "\uE002"
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 6,
+            "ascent": -32768,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 14,
+            "ascent": -32768,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 30,
+            "ascent": -32768,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 62,
+            "ascent": -32768,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 126,
+            "ascent": -32768,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 254,
+            "ascent": -32768,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 510,
+            "ascent": -32768,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": 1022,
+            "ascent": -32768,
+            "chars": [
+                "\uF80a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -3,
+            "ascent": -32768,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -4,
+            "ascent": -32768,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -6,
+            "ascent": -32768,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -10,
+            "ascent": -32768,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -18,
+            "ascent": -32768,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -34,
+            "ascent": -32768,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -66,
+            "ascent": -32768,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -130,
+            "ascent": -32768,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -258,
+            "ascent": -32768,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -514,
+            "ascent": -32768,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -1026,
+            "ascent": -32768,
+            "chars": [
+                "\uF81a"
             ]
         },
         {
